@@ -1,0 +1,4 @@
+{
+  "environment": "production",
+  "deployment": "release-v1.3.0"
+}
