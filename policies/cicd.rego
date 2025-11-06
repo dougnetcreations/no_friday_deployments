@@ -1,3 +1,5 @@
+rego 
+
 package cicd
 
 # Default to deny
